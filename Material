@@ -1,0 +1,21 @@
+Harvard Scalability lecture: https://www.youtube.com/watch?v=-W9F__D3oY4
+CAP theorem: https://www.youtube.com/watch?v=k-Yaq8AHlFA
+Load Balancing: https://aws.amazon.com/what-is/load-balancing/#:~:text=A%20load%20balancer%20is%20a,resource%20servers%20are%20used%20equally
+SQL vs NoSQL: https://www.sitepoint.com/sql-vs-nosql-differences/
+Database Sharding: https://www.mongodb.com/features/database-sharding-explained
+Caching: https://hackernoon.com/5-caching-mechanisms-to-speed-up-your-application
+What is a CDN: https://www.cloudflare.com/en-in/learning/cdn/what-is-a-cdn/
+10 popular System Design problems: 
+- URL shortener or TinyURL: https://www.educative.io/courses/grokking-modern-system-design-interview-for-engineers-managers/system-design-tinyurl
+- Social media app like Twitter: https://github.com/karanpratapsingh/system-design#twitter
+- File sharing service like Dropbox: https://systemdesignprimer.com/dropbox-system-design/
+- Video streaming service like Netflix: https://github.com/karanpratapsingh/system-design#netflix
+- Autocomplete feature of Google: https://www.enjoyalgorithms.com/blog/design-typeahead-system
+- Messaging app like WhatsApp: https://github.com/karanpratapsingh/system-design#whatsapp
+- Online document editor like Google docs: https://medium.com/@sureshpodeti/system-design-google-docs-93e12133a979
+- Proximity service like Uber: https://github.com/karanpratapsingh/system-design#uber
+- Hotel booking service like Airbnb: https://www.nexsoftsys.com/articles/how-to-design-backend-system-of-an-online-hotel-booking-app-using-java.html
+- Web crawler: https://www.enjoyalgorithms.com/blog/web-crawler
+Grokking the System Design Interview (Paid): https://www.designgurus.io/course/grokking-the-system-design-interview
+Grokking the System Design Interview (Book): https://github.com/Nitin96Bisht/System-Design/blob/master/Grokking%20System%20Design%20Interview.pdf
+Designing Data-Intensive Applications:https: //www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321
